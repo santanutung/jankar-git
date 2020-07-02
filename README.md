@@ -22,3 +22,7 @@ git diff    q
 git add
 git commit -m "second  commit"
 git push 
+
+
+git checkout -b dev
+git checkout dev
