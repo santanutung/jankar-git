@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+button, input {
+    overflow: visible;
+    padding: 16px;
+    width: 100%;
+    color: #333;
+    background-color: #fff;
+    border: none;
+    height: 48px;
+}
+.back {
+    background: #F4F4F4;
+    padding: 38px;
+    color: rgb(13, 44, 39);
+}
+h2.head {
+    padding-bottom: 45px;
+}
+
+
+
+textarea#me_message {
+    width: 100%;
+    outline: none;
+    border: none;
+    padding: 15px;
+    height: 150px;
+}
+ .ex {
+    width: 54px;
+}
+button.submitu {
+    width: 126px;
+}
+button.submitu {
+    border: 3px solid #FF1046;
+    border-radius: 5px;
+    padding: 4px;
+    height: 52px;
+    transition: 0.3s;
+}
+
+button.submitu:hover {
+    border: none;
+    background: #FF1046;
+    color: white;
+    font-size: 22px;
+    transform: scaleX(1.05);
+}
+.col-xl-12 div {
+    padding-bottom: 23px;
+}
+div#message {
+    padding-bottom: 45px;
+}
+input.ex {
+    max-width: 120px;
+}
+
+
+
+
